@@ -1,2 +1,10 @@
-# 1_lecture_vid
-This is the repo i used to follow along the first lecture
+# Pre_Lecture Demo
+
+Im following along for a video
+
+## Additional Comments
+
+* item 1
+* item 2
+* item 3
+  
